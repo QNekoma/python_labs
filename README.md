@@ -1,6 +1,6 @@
 # 00
 Дистанция между городами
-![изображение](https://github.com/QNekoma/python_labs/assets/147964939/050ea44b-b740-43d3-b97c-2ae646dd3335)
+![image](https://github.com/QNekoma/python_labs/assets/147964939/e63363d6-365f-4d8e-aa2d-512ca6c5e43a)
 # 01 
 Циркуль
 ![image](https://github.com/QNekoma/python_labs/assets/147964939/54f02fe8-7348-45d8-8f89-480858c5d208)
